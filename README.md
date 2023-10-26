@@ -62,6 +62,13 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## Setup
+
+prerequisite
+
+php 8.2.4
+laravel 10.10
+composer 2.6.5
+
  - clone the repository from the url (https://github.com/ROHITKUCHERIA/quotes.git)
  - composer install
  - composer require laravel/jetstream
