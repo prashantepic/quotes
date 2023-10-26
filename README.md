@@ -65,9 +65,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 prerequisite
 
-php 8.2.4
-laravel 10.10
-composer 2.6.5
+- php 8.2.4
+- laravel 10.10
+- composer 2.6.5
 
  - clone the repository from the url (https://github.com/ROHITKUCHERIA/quotes.git)
  - composer install
