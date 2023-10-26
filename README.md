@@ -71,7 +71,6 @@ prerequisite
 
  - clone the repository from the url (https://github.com/ROHITKUCHERIA/quotes.git)
  - composer install
- - composer require laravel/jetstream
  - php artisan jetstream:install livewire
  - php artisan migrate 
  - composer dumpautoload 
