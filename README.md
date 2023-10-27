@@ -71,8 +71,9 @@ prerequisite
 
  - clone the repository from the url (https://github.com/ROHITKUCHERIA/quotes.git)
  - composer install
- - php artisan jetstream:install livewire
  - php artisan migrate 
+ - npm install
+ - npm run dev 
  - composer dumpautoload 
  - php artisan co:ca 
  - php artisan serve
